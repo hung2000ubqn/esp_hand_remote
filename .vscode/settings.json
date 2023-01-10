@@ -1,0 +1,6 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "esp32_touch.h": "c"
+    }
+}
